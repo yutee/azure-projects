@@ -1,0 +1,1 @@
+## Hosting a static web app using on Azure Instances and using Azure Load Balancers
